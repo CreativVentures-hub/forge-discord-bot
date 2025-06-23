@@ -1,0 +1,19 @@
+{
+  "name": "forge-discord-bot",
+  "version": "1.0.0",
+  "description": "Forge CDO - E-commerce Development Discord Bot for Creativ Ventures",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["discord", "bot", "ecommerce", "shopify", "development", "ai"],
+  "author": "Creativ Ventures",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
